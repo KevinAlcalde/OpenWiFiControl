@@ -61,7 +61,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 pip install pyserial
 ```
 
-### 🧾 Script Python: `recolector_datos_wifi_esp8266.py`
+### 🧾 Script Python: `pythonredwifi.py`
 
 ```python
 # Código Python...
